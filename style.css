@@ -700,7 +700,7 @@ section{
 }
 
 .footer .share a:hover{
-    background:var(--black);
+    background:#008ca2;
 }
 
 .footer .credit{
